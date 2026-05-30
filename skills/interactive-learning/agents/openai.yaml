@@ -1,0 +1,4 @@
+interface:
+  display_name: "交互式学习"
+  short_description: "为任意学习主题创建掌握学习式的一对一个性化课程系统"
+  default_prompt: "Use $interactive-learning to start a personalized mastery-learning course on the topic I want to learn."
